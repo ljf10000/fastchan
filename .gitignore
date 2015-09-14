@@ -35,16 +35,3 @@
 *.rar
 *.tar.gz
 *.tar.bz2
-
-#dir
-app/cduk/*
-app/partool/*
-app/rsha/*
-app/rshc/*
-app/rshd/*
-app/uproxy/*
-lib/bus/*
-lib/mnl/*
-lib/rsh/*
-test/*
-!test/pipe/
